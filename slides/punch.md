@@ -1,3 +1,3 @@
-<!-- .slide: data-background="resources/punch.png" -->
+<!-- .slide: data-background="resources/punch-detail.png" -->
 
 <div>&nbsp;</div>

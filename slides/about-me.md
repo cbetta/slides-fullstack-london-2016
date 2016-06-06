@@ -4,7 +4,7 @@
 
 ##  Cristiano Betta
 
-Hacker @ [betta.io](https://betta.io)
+Hacker @ [Work Betta](https://betta.io)
 
 [@cbetta](https://twitter.com/cbetta)
 

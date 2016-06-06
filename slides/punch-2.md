@@ -1,7 +1,7 @@
 ##  punch
 
 ```html
-  <script src="punch.js" charset="utf-8"></script>
+  <script src="punch.js"></script>
 
   <div id='registration'></div>
 

@@ -2,12 +2,23 @@
     "index.md",
     [
         "about-me.md",
-        "about-me-2.md"
+        "about-me-2.md",
+        "about-me-3.md",
+        "about-me-4.md"
     ],
     [
+        "disqus-1.md",
+        "disqus-2.md",
+        "braintree-1.md",
+        "braintree-2.md",
         "punch.md",
-        "punch-2.md",
-        "punch-3.md",
+        "punch-2.md"
+    ],
+    [
+        "elephant.md",
+        "elephant-2.md",
+        "chart.md",
+        "chart-2.md",
         "doom.md"
     ],
     [
