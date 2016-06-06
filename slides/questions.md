@@ -6,7 +6,7 @@
 
 Cristiano Betta | [@cbetta](https://twitter.com/cbetta) | [betta.io](https://betta.io)
 
-[go.betta.io/lightweightjs](http://go.betta.io/lightweightjs)
+[go.betta.io/lightweightjs2](http://go.betta.io/lightweightjs2)
 
 [go.betta.io/lightweightjs-demo](http://go.betta.io/lightweightjs-demo)
 

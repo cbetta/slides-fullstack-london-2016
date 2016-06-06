@@ -1,11 +1,11 @@
-## Conclusions
-
-> Most of these are personal opinion <!-- .element: class="fragment" -->
+## Wrap up
 
 ES6 is lovely <!-- .element: class="fragment" -->
 
 RiotJS is easy and really small <!-- .element: class="fragment" -->
 
-Riot+Redux makes apps easy to comprehend <!-- .element: class="fragment" -->
+Really really small! <!-- .element: class="fragment" -->
 
-Rollup + NPM scripts beats Gulp and Grunt <!-- .element: class="fragment" -->
+Redux is small enough for everyone <!-- .element: class="fragment" -->
+
+Rollup still kicks WebPack's \*\*\* <!-- .element: class="fragment" -->

@@ -19,7 +19,8 @@
         "elephant-2.md",
         "chart.md",
         "chart-2.md",
-        "doom.md"
+        "doom.md",
+        "stats.md"
     ],
     [
         "the-problems.md",
@@ -30,24 +31,16 @@
     [
         "bundling.md",
         "browserify.md",
-        "browserify2.md",
         "webpack.md",
-        "webpack2.md",
-        "rollup.md",
-        "rollup-1.md"
+        "rollup.md"
     ],
     [
         "rollup-2.md",
-        "es6-modules.md",
-        "es6-continued.md",
         "es6-continued-2.md",
-        "es6-continued-3.md",
+        "es6-continued.md",
         "rollup-3.md",
         "rollup-4.md",
         "rollup-5.md",
-        "npm.md",
-        "npm-2.md",
-        "npm-3.md",
         "punch-2.md",
         "liftoff.md"
     ],
@@ -71,7 +64,6 @@
         "crazy3.md",
         "cat2.md",
         "redux.md",
-        "redux-2.md",
         "redux-3.md",
         "redux-4.md",
         "redux-5.md"
@@ -87,7 +79,9 @@
       "happy.md"
     ],
     "conclusions.md",
-    "notes.md",
-    "questions.md",
-    "work.md"
+    [
+      "notes.md",
+      "scientist.md"
+    ],
+    "questions.md"
 ]
