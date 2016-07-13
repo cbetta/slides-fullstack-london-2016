@@ -1,8 +1,6 @@
 <!-- .slide: data-state="dim" data-background="resources/hackathon.jpg" -->
 
-3x @ _DevTalks!_
-
-Ruby/JS Developer <!-- .element: class="fragment" -->
+Ruby Developer 
 
 former PayPal/Braintree <!-- .element: class="fragment" -->
 

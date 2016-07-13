@@ -2,20 +2,23 @@
 
 ```js
 // main.js
-import { cube } from './maths.js';
-console.log( cube( 5 ) );
+import AwesomeSauce from 'awesome-sauce';
+
+let sauce = new AwesomeSauce();
+sauce.makeIt();
 ```
 
 ```js
-// maths.js
+// awesome-sauce.js
 
-// unused function
-export function square ( x ) {
-	return x * x;
+class AwesomeSauce {
+  // 100 lines of code
 }
 
-// included function
-export function cube ( x ) {
-	return x * x * x;
+class EnterpriseSauce {
+  // 2000 lines of code
 }
+
+export EnterpriseSauce;
+export default AwesomeSauce;
 ```

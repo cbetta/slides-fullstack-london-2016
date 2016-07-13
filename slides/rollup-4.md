@@ -1,9 +1,11 @@
 ##  Compiled
 
 ```js
-function cube ( x ) {
-	return x * x * x;
+// bundled.js
+class AwesomeSauce {
+  // 100 lines of code
 }
 
-console.log( cube( 5 ) );
+let sauce = new AwesomeSauce();
+sauce.makeIt();
 ```
