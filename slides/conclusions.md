@@ -8,4 +8,4 @@ Really really small! <!-- .element: class="fragment" -->
 
 Redux is small enough for everyone <!-- .element: class="fragment" -->
 
-Rollup still kicks WebPack's \*\*\* <!-- .element: class="fragment" -->
+Rollup barely beats WebPack <!-- .element: class="fragment" -->
